@@ -1,0 +1,92 @@
+
+MUT-16 M8BR+FFR: An IDR region of MUT-16 protein. M8BR region is known to recruit the MUT-8 N-terminal. FFR region is known to be responsible for the phase separation of MUT-16.
+
+Sequence: VPPENPAPLREVGNFYSKSNHDEDRRNVQLPFTPADTHKPIKVAPKEPVRNPLLKERPSANGFINRRLPSHPAPPPVNQSQPANQPMQTAVYQNSHPGAPYIPQQPTYQPQLPVQQPQPHQYAPQPIHHQQPIHQPMHGQQYPPVNQQQPIYQQPAPQYPPYNSIQNNPQHGPSPFNYSQVPQPAYNHVGQQPSHMSNQPHINQNGYQNSYNPNQGPTSSD
+PNYGCNPQFNHYGSRSVYHEDHSSQRRRSPDQFPPNPPEYDPHGNFKLADYERDRMTVGYSQNPHQFDHHGSHMPHQSQPQGYDNFNGNSA
+
+###########################################################################################################################################################################################
+
+MUT-8 N-terminal: It is a prion-like domain (PLD, https://doi.org/10.1002/2211-5463.13213) which gets recruited to the MUT-16 M8BR+FFR. (Simulation exist)
+
+Sequence: MHNGYHSYFPPNHYYAQSQPSSSYNPQPQIQQPQTQIYGLVVGYNKYGNRN
+
+###########################################################################################################################################################################################
+
+MUT-8 Tyrosine (Y) to Phenyl-alanine (F) mutant: 
+
+Sequence: MHNGFHSFFPPNHFFAQSQPSSSFNPQPQIQQPQTQIFGLVVGFNKFGNRN
+
+###########################################################################################################################################################################################
+
+MUT-8 Tyrosine (Y) to Alanine (A) mutant: 
+
+Sequence: MHNGAHSAFPPNHAAAQSQPSSSANPQPQIQQPQTQIAGLVVGANKAGNRN
+
+###########################################################################################################################################################################################
+
+MUT-8 Tyrosine (Y) to Phospho-Tyrosine (X) mutant:
+
+Sequence: MHNGXHSXFPPNHXXAQSQPSSSXNPQPQIQQPQTQIXGLVVGXNKXGNRN
+
+###########################################################################################################################################################################################
+
+MUT-8 Tyrosine (Y) to Aspartic-acid (D) mutant:
+
+Sequence: MHNGDHSDFPPNHDDAQSQPSSSDNPQPQIQQPQTQIDGLVVGDNKDGNRN
+
+###########################################################################################################################################################################################
+
+MUT-8 Tyrosine (Y) to Glutamic-acid (E) mutant:
+
+Sequence: MHNGEHSEFPPNHEEAQSQPSSSENPQPQIQQPQTQIEGLVVGENKEGNRN
+
+###########################################################################################################################################################################################
+
+MUT-8 Tyrosine (Y) to Arginine (R) mutant:
+
+Sequence : MHNGRHSRFPPNHRRAQSQPSSSRNPQPQIQQPQTQIRGLVVGRNKRGNRN
+
+###########################################################################################################################################################################################
+
+MUT-8 Tyrosine (Y) to Lysine (K) mutant:
+
+Sequence: MHNGKHSKFPPNHKKAQSQPSSSKNPQPQIQQPQTQIKGLVVGKNKKGNRN
+
+###########################################################################################################################################################################################
+
+MUT-8 Tyrosine (Y) interspaced:
+
+Sequence: MHNGHSYFPPNHYAQSQPYSSSNPYQPQIQYQPQTQYIGLVVYGNKGNYRN
+
+###########################################################################################################################################################################################
+
+MUT-8 Tyrosine (Y) clustered in N-terminal:
+
+Sequence: MYHYNYGYHYSYFYPYPNHAQSQPSSSNPQPQIQQPQTQIGLVVGNKGNRN
+
+###########################################################################################################################################################################################
+
+MUT-8 Tyrosine (Y) clustered in C-terminal:
+
+Sequence: MHNGHSFPPNHAQSQPSSSNPQPQIQQPQTQIGLVYVYGYNYKYGYNYRYN
+
+###########################################################################################################################################################################################
+
+MUT-8 no net charge: All charged amino acids Arginine (R), Lysine (K), Aspartic-acid (D), Glutamic-acid (E) converted to Alanine (A)
+
+Sequence: MHNGYHSYFPPNHYYAQSQPSSSYNPQPQIQQPQTQIYGLVVGYNAYGANAN
+
+###########################################################################################################################################################################################
+
+MUT-8 large net positive charge: All amino-acids converted to Arginine (R) except for glutamine (Q), asparagine (N), glycine (G), serine (S), and proline (P). These amino-acids
+are important for PLD Low complexity region.
+
+Sequence: RRNGRSRRFPPNRRQAQSQPSSSYNPQPQIQQPQTQIRGRRRGYNRRGNRN
+
+###########################################################################################################################################################################################
+
+MUT-8 large net negative charge:All amino-acids converted to Glutamic-acid (E) except for glutamine (Q), asparagine (N), glycine (G), serine (S), and proline (P).
+
+Sequence: EENGESEEFPPNEEQAQSQPSSSYNPQPQIQQPQTQIEGEEEGYNKEGNEN
+
+###########################################################################################################################################################################################
